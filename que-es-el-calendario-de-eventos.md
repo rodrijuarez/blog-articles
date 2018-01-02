@@ -28,7 +28,7 @@ Por último, existe [esta página](http://meetupjs.com.ar/calendario.html) que s
 * [Calendar API](https://github.com/meetupjs-ar/calendar-api)
 * [meetupjs-ar.github.io](https://github.com/meetupjs-ar/meetupjs-ar.github.io)
 
-# ¿Cómo puedo ayudar?
+## ¿Cómo puedo ayudar?
 
 ¡De muchas maneras!, sólo por mencionar algunas:
 
@@ -36,6 +36,6 @@ Por último, existe [esta página](http://meetupjs.com.ar/calendario.html) que s
 * **Agregando eventos** desde [este formulario](https://goo.gl/forms/Ss5X2SHWSq0Hj1Km1).
 * Dándonos **feedback**, proponiendo **ideas**, enviando un **pull-request** a los repositorios correspondientes o mandándonos un mensaje en las redes sociales.
 
-# ¿Piensan seguir mejorándolo?
+## ¿Piensan seguir mejorándolo?
 
 Sí, y todo lo que tenemos pensado por el momento se encuentra en **issues** con diferentes **labels** en cada uno de los repositorios listados más arriba.
