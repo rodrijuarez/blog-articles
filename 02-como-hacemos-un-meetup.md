@@ -48,7 +48,9 @@ La función de este mail es más que nada pedir la descripción de la charla y l
 
 ## 4. DONACIONES
 
+En el 2017 decidimos ser un meetup solidario por esto pedimos una colaboración a modo de “entrada” y buscamos una ONG a la cual donarla.
 
+Intentamos que las personas de la ONG puedan venir a buscar las donaciones el día del meetup para que después no sea un problema de logística.
 
 ## 5. FOTO Y VIDEO
 
