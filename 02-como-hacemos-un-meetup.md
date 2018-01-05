@@ -80,7 +80,7 @@ Como organizaste todo tan hermosamente hoy sólo tenés que llegar temprano a la
 
 ## 10. NO TE RELAJES, ¡TODAVÍA NO TERMINASTE!
 
-
+![relajacion](https://raw.githubusercontent.com/meetupjs-ar/blog-articles/master/02-como-hacemos-un-meetup/relajacion.gif)
 
 ## 11. FEEDBACK A LOS ASISTENTES Y ORADORES
 
@@ -98,3 +98,4 @@ Está bueno que no pase demasiado tiempo entre el meetup y la publicación de lo
 
 ## 14. AHORA SI, FINALMENTE TERMINASTE DE ORGANIZAR EL MEETUP MENSUAL.
 
+![listo](https://raw.githubusercontent.com/meetupjs-ar/blog-articles/master/02-como-hacemos-un-meetup/listo.gif)
