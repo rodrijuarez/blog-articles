@@ -96,6 +96,6 @@ A veces los videos de las charlas necesitan un poco de edición antes de ser pub
 
 Está bueno que no pase demasiado tiempo entre el meetup y la publicación de los videos para no perder entusiasmo y que siga siendo una actividad relevante.
 
-## 14. AHORA SI, FINALMENTE TERMINASTE DE ORGANIZAR EL MEETUP MENSUAL.
+## 14. ¡TERMINASTE DE ORGANIZAR EL MEETUP!
 
 ![listo](https://raw.githubusercontent.com/meetupjs-ar/blog-articles/master/02-como-hacemos-un-meetup/listo.gif)
