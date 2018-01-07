@@ -1,6 +1,6 @@
 # ¿Qué es el Calendario de Eventos?
 
-El **Calendario de Eventos** es un intento de unificar la búsqueda de eventos relacionados con tecnología. Hay sitios como *Meetup* y *Eventbrite*, universidades, organizaciones e instituciones que publican eventos y probablemente nunca te enteres porque no los conocías y no podés estar anotado en todos esos lados a la vez. Por ese motivo, nos tomamos el trabajo de armar el calendario.
+El **Calendario de Eventos** es un intento de unificar la búsqueda de eventos relacionados con tecnología. Hay sitios como _Meetup_ y _Eventbrite_, universidades, organizaciones e instituciones que publican eventos y probablemente nunca te enteres porque no los conocías y no podés estar anotado en todos esos lados a la vez. Por ese motivo, nos tomamos el trabajo de armar el calendario.
 
 ## ¿Cómo funciona?
 
@@ -8,15 +8,15 @@ Los eventos que se muestran en el calendario pueden venir de:
 
 * La API de **Eventbrite**
 * La API de **Meetup**
-* Una **Google Spreadsheet** que se completa por medio de un *Google Form*.
+* Una **Google Spreadsheet** que se completa por medio de un _Google Form_.
 
-La *Google Spreadsheet* nos permite agregar rápidamente eventos puntuales que no aparecen en las otras APIs, como eventos de Facebook, conferencias internacionales, talleres universitarios, etc.
+Ese _Google Spreadsheet_ nos permite agregar rápidamente eventos puntuales que no aparecen en las otras APIs, como eventos de Facebook, conferencias internacionales, talleres universitarios, etc.
 
-Para obtener los datos de cada uno de estos orígenes, escribimos una serie de *microservicios* usando *Node.js*. En el caso de *Eventbrite* y *Meetup*, estamos pidiéndole los próximos eventos de tecnología a sus respectivas APIs. En el caso de la *Google Spreadsheet* que se completa por medio de un *Google Form*, lo que hacemos es leer los eventos directamente desde la hoja de cálculo. Cómo resultado de todo esto, tenemos 3 *endpoints* desde donde obtenemos los próximos eventos de diferentes fuentes.
+Para obtener los datos de cada uno de estos orígenes, escribimos una serie de _microservicios_ usando _Node.js_. En el caso de _Eventbrite_ y _Meetup_, estamos pidiéndole los próximos eventos de tecnología a sus respectivas APIs. En el caso de la _Google Spreadsheet_ que se completa por medio de un _Google Form_, lo que hacemos es leer los eventos directamente desde la hoja de cálculo. Cómo resultado de todo esto, tenemos 3 _endpoints_ desde donde obtenemos los próximos eventos de diferentes fuentes.
 
-Existe un cuarto *microservicio* que se encarga de obtener los datos de los 3 endpoints anteriores, agruparlos por mes y ordenarlos por día. Este endpoint es el que se consulta desde el cliente para armar la UI del calendario.
+Existe un cuarto _microservicio_ que se encarga de obtener los datos de los 3 endpoints anteriores, agruparlos por mes y ordenarlos por día. Este endpoint es el que se consulta desde el cliente para armar la UI del calendario.
 
-Por último, existe **[esta página](http://meetupjs.com.ar/calendario.html)** que solo hace uso de la API de *fetch* para pedir los eventos agrupados y ordenados para mostrarlos.
+Por último, existe **[esta página](http://meetupjs.com.ar/calendario.html)** que solo hace uso de la API de _fetch_ para pedir los eventos agrupados y ordenados para mostrarlos.
 
 ## ¿Es Open Source?
 

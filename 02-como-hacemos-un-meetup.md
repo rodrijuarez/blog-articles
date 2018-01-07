@@ -2,7 +2,7 @@
 
 La idea de este post es contarles como **Meetup.js** se organiza internamente de cara a los eventos que hacemos todos los meses. Estos puntos son una guía para las personas que alguna vez me escribieron para que los ayude a guiarse cuando tienen que armar un evento.
 
-Nuestra herramienta principal es **Google Drive** donde tenemos una carpeta destinada a los eventos y a la que tienen acceso todos los miembros de la organización. De esta manera, la información está disponible para todos en todo momento.
+Nuestra herramienta principal es _Google Drive_ donde tenemos una carpeta destinada a los eventos y a la que tienen acceso todos los miembros de la organización. De esta manera, la información está disponible para todos en todo momento.
 
 ## 1. PRIMER, PRIMERÍSIMO PASO
 
@@ -38,13 +38,13 @@ Se le envía un mail al encargado del lugar para definir:
 * Fecha
 * Comida
 * Cantidad de personas que entran en el lugar
-* Materiales para proyectar (que tipo de puerto de video, etc.)
+* Materiales para dar charlas (que tipo de puerto de video, salida de audio, etc.)
 
 ## 3. DEFINIR CHARLAS
 
-Cada uno tiene su forma de definir las charlas, nosotros tenemos un repo de [GitHub](https://github.com/meetupjs-ar/charlas/issues) donde podemos ver las propuestas que ya están cargadas, tratamos de elegir entre esas y entre otras personas que estén interesadas en participar. Una vez que tenemos las dos charlas, los contactamos y, previa confirmación de que pueden participar les enviamos un mail llamado _“Mail pedido de charlas para oradores”_ (Sí, hago muchos templates de mail para que seamos todos prolijitos).
+Cada uno tiene su forma de definir las charlas, nosotros tenemos un repo de [GitHub](https://github.com/meetupjs-ar/charlas/issues) donde podemos ver las propuestas que ya están cargadas, tratamos de elegir entre esas y entre otras personas que estén interesadas en participar. Una vez que tenemos las dos charlas definidas, los contactamos y, previa confirmación de que pueden participar, les enviamos un mail llamado **“Mail pedido de charlas para oradores”** (Sí, hago muchos templates de mail para que seamos todos prolijitos).
 
-La función de este mail es más que nada pedir la descripción de la charla y la bio de la persona para luego publicar en el evento. En el caso de que tengan las charlas en algún lugar como GitHub, se pueden ahorrar este paso y pedir toda la info ahí.
+La función de este mail es más que nada pedir la descripción de la charla y la bio de la persona para luego publicar en el evento. En el caso de que tengan las charlas en algún lugar como _GitHub_, se pueden ahorrar este paso y pedir toda la info ahí.
 
 ## 4. DONACIONES
 
@@ -58,11 +58,11 @@ En el caso de tener alguna persona que esté dispuesta a filmar y/o sacar fotos 
 
 ## 6. MEETUP.COM
 
-Una vez que tenemos toda la info necesaria de los pasos anteriores podemos armar el evento dentro de Meetup.com. El evento puede ser publicado con más de una semana de anticipación pero recomendamos abrir las inscripciones 5 días antes.
+Una vez que tenemos toda la info necesaria de los pasos anteriores podemos armar el evento dentro de Meetup.com. El evento puede ser publicado con más de una semana de anticipación pero recomendamos abrir las inscripciones **5 días antes**.
 
 ## 7. LIGHTNING TALKS
 
-Nuestro sistema de lightning talks lo manejamos con un _formulario de Google_ que lo actualizamos mes a mes y lo ponemos dentro de la descripción del meetup.
+Nuestro sistema de lightning talks lo manejamos con un _Google Form_ que lo actualizamos mes a mes y lo ponemos dentro de la descripción del meetup.
 
 Pedimos:
 
@@ -74,11 +74,11 @@ Para que el evento no sea eterno, en caso de tener más de 3 propuestas, elegimo
 
 ## 8. MAIL A LOS ORADORES
 
-El lunes de la semana del meetup le mandamos un mail a las dos personas que dan charlas. Tenemos un nuevo template que se llama _“Mail para oradores”_. Este mail les informa sobre Día y hora, dirección del lugar, duración de la charla e intentamos responderles de antemano las preguntas frecuentes que todo orador se hace: _¿Hay internet?, ¿Llevó mi compu?, ¿Tienen adaptadores?, ¿Hay sonido?, ¿Tienen una guía sobre como armar una charla?_.
+El lunes de la semana del meetup le mandamos un mail a las dos personas que dan charlas. Tenemos un nuevo template que se llama **“Mail para oradores”**. Este mail les informa sobre Día y hora, dirección del lugar, duración de la charla e intentamos responderles de antemano las preguntas frecuentes que todo orador se hace: _¿Hay internet?, ¿Llevó mi compu?, ¿Tienen adaptadores?, ¿Hay sonido?, ¿Tienen una guía sobre como armar una charla?_.
 
 ## 9. LLEGÓ EL DÍA DEL MEETUP
 
-Como organizaste todo tan hermosamente hoy sólo tenés que llegar temprano a la empresa y recibir a la gente. No te olvides de imprimir las listas y tomar asistencia. Esto te va a servir para tener una buena perspectiva de cara a futuros eventos y tener más claro que tanto podés jugar con el número de asistentes en casos donde tenés mucha lista de espera.
+Como organizaste todo tan hermosamente hoy sólo tenés que llegar temprano a la empresa y recibir a la gente. _No te olvides de imprimir las listas y tomar asistencia_. Esto te va a servir para tener una buena perspectiva de cara a futuros eventos y tener más claro que tanto podés jugar con el número de asistentes en casos donde tenés mucha lista de espera.
 
 ## 10. NO TE RELAJES, ¡TODAVÍA NO TERMINASTE!
 
@@ -86,18 +86,18 @@ Como organizaste todo tan hermosamente hoy sólo tenés que llegar temprano a la
 
 ## 11. FEEDBACK A LOS ASISTENTES Y ORADORES
 
-Dentro de la carpeta de Google Drive tenemos un form llamado _“Feedback MeetupJS BA”_. Lo que hacemos es mediante meetup.com enviarle un mail a todos los asistentes para que lo completen. A los oradores les mandamos un mail agradeciendo por la participación y le pedimos feedback del evento y de cómo se sintieron dando la charla.
+Dentro de la carpeta de Google Drive tenemos un form llamado **“Feedback MeetupJS”**. Lo que hacemos es mediante meetup.com enviarle un mail a todos los asistentes para que lo completen. A los oradores les mandamos un mail agradeciendo por la participación y le pedimos feedback del evento y de cómo se sintieron dando la charla.
 
 Una vez que la gente haya completado el formulario de feedback, les compartimos a los oradores individualmente lo que los asistentes comentaron de su charla para que la puedan mejorar de cara al futuro.
 
-Unos días después del meetup, le mandas el template _“Mail para pedir feedback a los speakers”_ para que nos puedan contar acerca de cómo les fue y qué les pareció el evento.
+Unos días después del meetup, le mandas el template **“Mail para pedir feedback a los speakers”** para que nos puedan contar acerca de cómo les fue y qué les pareció el evento.
 
-## 13. SUBIR CHARLAS Y COMUNICAR CHARLAS SUBIDAS
+## 12. SUBIR CHARLAS Y COMUNICAR CHARLAS SUBIDAS
 
-A veces los videos de las charlas necesitan un poco de edición antes de ser publicados a Youtube. Una vez que eso está, se comparte en redes sociales para que todos puedan acceder al contenido.
+A veces los videos de las charlas necesitan un poco de edición antes de ser publicados a _Youtube_. Una vez que eso está, se comparte en redes sociales para que todos puedan acceder al contenido.
 
 Está bueno que no pase demasiado tiempo entre el meetup y la publicación de los videos para no perder entusiasmo y que siga siendo una actividad relevante.
 
-## 14. ¡TERMINASTE DE ORGANIZAR EL MEETUP!
+## 13. ¡TERMINASTE DE ORGANIZAR EL MEETUP!
 
 ![listo](https://raw.githubusercontent.com/meetupjs-ar/blog-articles/master/02-como-hacemos-un-meetup/listo.gif)
