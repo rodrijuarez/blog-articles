@@ -36,7 +36,7 @@ Si no tenemos determinado el lugar donde se va realizar el meetup del mes, busca
 Se le envía un mail al encargado del lugar para definir:
 
 * Fecha
-* Comida
+* Si pueden facilitarnos comida y/o bebida
 * Cantidad de personas que entran en el lugar
 * Materiales para dar charlas (que tipo de puerto de video, salida de audio, etc.)
 
@@ -51,6 +51,8 @@ La función de este mail es más que nada pedir la descripción de la charla y l
 En el 2017 decidimos ser un meetup solidario por esto pedimos una colaboración a modo de “entrada” y buscamos una ONG a la cual donarla.
 
 Intentamos que las personas de la ONG puedan venir a buscar las donaciones el día del meetup para que después no sea un problema de logística.
+
+> Si tenés alguna fundación y/o ONG conocida a la que podamos ayudar no dudes en ponerte en contacto con nosotros.
 
 ## 5. FOTO Y VIDEO
 
@@ -78,7 +80,7 @@ El lunes de la semana del meetup le mandamos un mail a las dos personas que dan 
 
 ## 9. LLEGÓ EL DÍA DEL MEETUP
 
-Como organizaste todo tan hermosamente hoy sólo tenés que llegar temprano a la empresa y recibir a la gente. _No te olvides de imprimir las listas y tomar asistencia_. Esto te va a servir para tener una buena perspectiva de cara a futuros eventos y tener más claro que tanto podés jugar con el número de asistentes en casos donde tenés mucha lista de espera.
+Como organizaste todo tan hermosamente hoy sólo tenés que llegar temprano a la empresa y recibir a la gente. _No te olvides de imprimir las listas y tomar asistencia_. Esto te va a servir para tener una buena perspectiva de cara a futuros eventos y tener más claro el porcentaje de gente que asiste del total y así poder sumar más el próximo evento.
 
 ## 10. NO TE RELAJES, ¡TODAVÍA NO TERMINASTE!
 
@@ -88,9 +90,7 @@ Como organizaste todo tan hermosamente hoy sólo tenés que llegar temprano a la
 
 Dentro de la carpeta de Google Drive tenemos un form llamado **“Feedback MeetupJS”**. Lo que hacemos es mediante meetup.com enviarle un mail a todos los asistentes para que lo completen. A los oradores les mandamos un mail agradeciendo por la participación y le pedimos feedback del evento y de cómo se sintieron dando la charla.
 
-Una vez que la gente haya completado el formulario de feedback, les compartimos a los oradores individualmente lo que los asistentes comentaron de su charla para que la puedan mejorar de cara al futuro.
-
-Unos días después del meetup, le mandas el template **“Mail para pedir feedback a los speakers”** para que nos puedan contar acerca de cómo les fue y qué les pareció el evento.
+Una vez que la gente haya completado el formulario de feedback, les compartimos a los oradores individualmente lo que los asistentes comentaron de su charla para que la puedan mejorar en otras oportunidades.
 
 ## 12. SUBIR CHARLAS Y COMUNICAR CHARLAS SUBIDAS
 
@@ -101,3 +101,5 @@ Está bueno que no pase demasiado tiempo entre el meetup y la publicación de lo
 ## 13. ¡TERMINASTE DE ORGANIZAR EL MEETUP!
 
 ![listo](https://raw.githubusercontent.com/meetupjs-ar/blog-articles/master/02-como-hacemos-un-meetup/listo.gif)
+
+Si tenés dudas o consultas no dudes en escribirme :)
