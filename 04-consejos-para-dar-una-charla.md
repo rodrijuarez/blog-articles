@@ -4,7 +4,7 @@ Una **charla** es un espacio de _30 minutos máximo_ donde podés exponer sobre 
 
 Para dar una buena charla, te recomendamos:
 
-- **Tener un mapa, mental o escrito, de lo que querés decir y como**. _Importa mucho lo que digas y la manera_, quedando en evidencia cuando una idea o comentario tiene **fundamentos** y un hilo a lo largo de tu ponencia. Si necesitás una guía sobre como orientar una exposición técnica, te recomendamos que **[mires este link](https://github.com/meetupjs-ar/guias)**.
+- **Tener un mapa, mental o escrito, de lo que querés decir y como**. _Importa mucho lo que digas y la manera_, quedando en evidencia cuando una idea o comentario tiene **fundamentos** y un hilo a lo largo de tu ponencia. Si necesitás una guía sobre como orientar una exposición técnica, te recomendamos que mires **[este link](https://github.com/meetupjs-ar/guias)**.
 
 - **Practicar la charla al menos 1 vez**.
 
