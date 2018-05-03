@@ -6,7 +6,7 @@ Sin importar para que quieras usar el espacio, te recomendamos:
 
 - **Tener un mapa, mental o escrito, de lo que querés decir y como**. Al tener poco tiempo, _importa mucho lo que digas y la manera_, quedando en evidencia cuando una idea o comentario tiene **fundamentos** y un hilo a lo largo de tu ponencia. Si necesitás una guía sobre como orientar una exposición técnica, te recomendamos que **[mires este link](https://github.com/meetupjs-ar/guias)**.
 
-- **Practicar la charla al menos 1 vez antes del evento**.
+- **Practicar la charla al menos 1 vez**.
 
 - **Pensar en lo que querés transmitir y sólo hablar de eso**. El tiempo es tu aliado al momento de resumir lo que querés contar y enfocarte para no irte por las ramas. ¡No te apures!, _tener poco tiempo no quiere decir ir rápido_.
 
