@@ -6,7 +6,7 @@ Primeramente estuvo José Sanchez, también de Stensul, contándonos de VirtualD
 
 Pueden ver la charla de José en Youtube desde **[este link](https://www.youtube.com/watch?v=xA93dmkfcSQ)**.
 
-[Video de la charla de José Sanchez](https://raw.githubusercontent.com/meetupjs-ar/blog-articles/master/05-resena-meetup-mayo-2018/jose-sanchez.jpg)
+![Video de la charla de José Sanchez](https://raw.githubusercontent.com/meetupjs-ar/blog-articles/master/05-resena-meetup-mayo-2018/jose-sanchez.jpg)
 
 Para cerrar, nos dejó con una preview de Glimmer, una implementación que genera bytecode con instrucciones de manipulación de DOM (y una VM que interpreta estas instrucciones) que promete aislar conceptualmente al VirtualDOM y el DOM real y darnos no solo mejoras de performance si no también la abstracción para poder trabajar por encima de otras plataformas que puedan exponer una API similar a la del DOM clásico.
 
@@ -18,7 +18,7 @@ En su momento ideó **[not-jquery](https://gist.github.com/gabmontes/535a7b3b059
 
 Pueden ver la charla de Gabi en Youtube desde **[este link](https://www.youtube.com/watch?v=QtiDA8KkM3U)**.
 
-[Video de la charla de Gabriel Montes](https://raw.githubusercontent.com/meetupjs-ar/blog-articles/master/05-resena-meetup-mayo-2018/gabi-montes.jpg)
+![Video de la charla de Gabriel Montes](https://raw.githubusercontent.com/meetupjs-ar/blog-articles/master/05-resena-meetup-mayo-2018/gabi-montes.jpg)
 
 No me quiero olvidar de mencionar que **[Có](https://twitter.com/co_constanza)** sacó unas fotos muy buenas del evento que las pueden ver **[en este link]()**.
 
