@@ -20,6 +20,6 @@ En su momento ideó **[not-jquery](https://gist.github.com/gabmontes/535a7b3b059
 
 Pueden ver la charla de Gabi en Youtube desde **[este link](https://www.youtube.com/watch?v=QtiDA8KkM3U)**.
 
-No me quiero olvidar de mencionar que **[Có](https://twitter.com/co_constanza)** sacó unas fotos muy buenas del evento que las pueden ver **[en este link]()**.
+No me quiero olvidar de mencionar que **[Có](https://twitter.com/co_constanza)** sacó unas fotos muy buenas del evento que las pueden ver **[en este link](https://www.facebook.com/groups/1572363023007913/permalink/2087021364875407/)**.
 
 Como siempre, la comunidad de Meetup.js es increíble y eso nos dejó un muy buen encuentro y a la espera de la edición de junio.
