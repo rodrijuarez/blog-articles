@@ -1,8 +1,8 @@
 # Reseña del Meetup.js de Mayo 2018
 
-El 10 de mayo nos devolvió a Meetup.js, arrancando este año con un encuentro en las oficinas de **[Stensul](https://stensul.com/)** en Palermo. Después de una presentación por **[Gabriel Sosa](https://twitter.com/pendexgabo)** que nos contó un poco a qué se dedica Stensul, arrancamos con las charlas.
+El 10 de mayo nos devolvió a Meetup.js, arrancando este año con un encuentro en las oficinas de **[stensul](https://stensul.com/)** en Palermo. Después de una presentación por **[Gabriel Sosa](https://twitter.com/pendexgabo)** que nos contó un poco a qué se dedica stensul, arrancamos con las charlas.
 
-Primeramente estuvo José Sanchez, también de Stensul, contándonos de VirtualDOM. Esto fue en reemplazo de una charla sobre Redux de Francisco Reynolds que lamentablemente tuvo que ausentarse. La charla tuvo un formato muy entretenido - a través de un juego de preguntas y respuestas en el que todos pudimos participar desde nuestras laptops o celulares, José fue avanzando poco a poco por los conceptos del DOM _«tradicional»_ hasta comentarnos qué es un VirtualDOM, cuál es su objetivo y su razón de ser, y un poco de cómo funciona en diferentes librerías como Vue y React.
+Primeramente estuvo José Sanchez, también de stensul, contándonos de VirtualDOM. Esto fue en reemplazo de una charla sobre Redux de Francisco Reynolds que lamentablemente tuvo que ausentarse. La charla tuvo un formato muy entretenido - a través de un juego de preguntas y respuestas en el que todos pudimos participar desde nuestras laptops o celulares, José fue avanzando poco a poco por los conceptos del DOM _«tradicional»_ hasta comentarnos qué es un VirtualDOM, cuál es su objetivo y su razón de ser, y un poco de cómo funciona en diferentes librerías como Vue y React.
 
 ![Video de la charla de José Sanchez](https://raw.githubusercontent.com/meetupjs-ar/blog-articles/master/05-resena-meetup-mayo-2018/jose-sanchez.jpg)
 
